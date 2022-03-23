@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/utfo-website-test/static/css/main.522bfca1.css",
-    "main.js": "/utfo-website-test/static/js/main.e2e3bcad.js",
+    "main.js": "/utfo-website-test/static/js/main.c67841cb.js",
     "static/media/shoes.jpg": "/utfo-website-test/static/media/shoes.93512298c5919d99ac99.jpg",
     "static/media/scanner.jpg": "/utfo-website-test/static/media/scanner.ee81e94ee48aa5f09823.jpg",
     "static/media/roomscanner.jpg": "/utfo-website-test/static/media/roomscanner.bd7ddd3d31715cf2fc8c.jpg",
@@ -25,10 +25,10 @@
     "static/media/utoph-icon.png": "/utfo-website-test/static/media/utoph-icon.cc25773ee35205fd47fe.png",
     "index.html": "/utfo-website-test/index.html",
     "main.522bfca1.css.map": "/utfo-website-test/static/css/main.522bfca1.css.map",
-    "main.e2e3bcad.js.map": "/utfo-website-test/static/js/main.e2e3bcad.js.map"
+    "main.c67841cb.js.map": "/utfo-website-test/static/js/main.c67841cb.js.map"
   },
   "entrypoints": [
     "static/css/main.522bfca1.css",
-    "static/js/main.e2e3bcad.js"
+    "static/js/main.c67841cb.js"
   ]
 }
