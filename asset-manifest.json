@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/utfo-website-test/static/css/main.522bfca1.css",
+    "main.js": "/utfo-website-test/static/js/main.0c6355ff.js",
+    "static/media/shoes.jpg": "/utfo-website-test/static/media/shoes.93512298c5919d99ac99.jpg",
+    "static/media/scanner.jpg": "/utfo-website-test/static/media/scanner.ee81e94ee48aa5f09823.jpg",
+    "static/media/roomscanner.jpg": "/utfo-website-test/static/media/roomscanner.bd7ddd3d31715cf2fc8c.jpg",
+    "static/media/Andrew Ilersich.png": "/utfo-website-test/static/media/Andrew Ilersich.864fddc0fa863f928490.png",
+    "static/media/Irwin Ngo.png": "/utfo-website-test/static/media/Irwin Ngo.a4126d7c8e72d1d96608.png",
+    "static/media/Parth Dua.jpg": "/utfo-website-test/static/media/Parth Dua.7395d45382079b21d855.jpg",
+    "static/media/Ghamr Saeed.jpg": "/utfo-website-test/static/media/Ghamr Saeed.6420b73427bba9a3985c.jpg",
+    "static/media/Ling Bi.jpg": "/utfo-website-test/static/media/Ling Bi.a783f67753b690e48abb.jpg",
+    "static/media/arcade.jpg": "/utfo-website-test/static/media/arcade.cf4769e57bf5800f2f28.jpg",
+    "static/media/linkedin.png": "/utfo-website-test/static/media/linkedin.b1bebb391a157454d569.png",
+    "static/media/Ben Goodchild.JPG": "/utfo-website-test/static/media/Ben Goodchild.60f7ea9b74c0cd3f61ec.JPG",
+    "static/media/leaphands.jpeg": "/utfo-website-test/static/media/leaphands.2ede8ab3dea71f31e6ea.jpeg",
+    "static/media/leapmotion.jpeg": "/utfo-website-test/static/media/leapmotion.801c7e12eb6349f3d3ef.jpeg",
+    "static/media/treadmill.jpg": "/utfo-website-test/static/media/treadmill.c1435afba51690c0788f.jpg",
+    "static/media/vr.png": "/utfo-website-test/static/media/vr.d5471d64b04e381414ce.png",
+    "static/media/location.png": "/utfo-website-test/static/media/location.020a9abfb31016b1d8eb.png",
+    "static/media/discord.png": "/utfo-website-test/static/media/discord.3e30ec72e9fe7f08d0cf.png",
+    "static/media/mail.png": "/utfo-website-test/static/media/mail.86328d1fbc0015175a0c.png",
+    "static/media/Roddenberry.otf": "/utfo-website-test/static/media/Roddenberry.5f3be20ab7c2d40ddd22.otf",
+    "static/media/world.png": "/utfo-website-test/static/media/world.a32bd8b1560dc8905497.png",
+    "static/media/utoph-icon.png": "/utfo-website-test/static/media/utoph-icon.cc25773ee35205fd47fe.png",
+    "index.html": "/utfo-website-test/index.html",
+    "main.522bfca1.css.map": "/utfo-website-test/static/css/main.522bfca1.css.map",
+    "main.0c6355ff.js.map": "/utfo-website-test/static/js/main.0c6355ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.522bfca1.css",
+    "static/js/main.0c6355ff.js"
+  ]
+}
